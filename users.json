@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "eMail": "raphaellands@gmail.com",
+      "firstName": "Raphael",
+      "lastName": "Small",
+      "username": "rlands",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "eMail": "",
+      "firstName": "",
+      "lastName": "",
+      "username": "",
+      "password": "",
+      "id": 2
+    },
+    {
+      "eMail": "",
+      "firstName": "",
+      "lastName": "",
+      "username": "",
+      "password": "",
+      "id": 3
+    },
+    {
+      "eMail": "",
+      "firstName": "",
+      "lastName": "",
+      "username": "",
+      "password": "",
+      "id": 4
+    },
+    {
+      "eMail": "",
+      "firstName": "",
+      "lastName": "",
+      "username": "",
+      "password": "",
+      "id": 5
+    },
+    {
+      "eMail": "cguerra071@gmail.com",
+      "firstName": "a",
+      "lastName": "a",
+      "username": "a",
+      "password": "a",
+      "id": 6
+    }
+  ]
+}
